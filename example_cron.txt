@@ -1,0 +1,5 @@
+CRONDIR="/home/yakov/projects/make_backup"
+
+0 3 * * * $CRONDIR/make_dir_backup_locally.sh
+30 3 * * * $CRONDIR/make_db_backup_locally.sh
+0 4 * * * $CRONDIR/cleanup_backups.sh
