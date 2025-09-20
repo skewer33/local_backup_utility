@@ -11,7 +11,7 @@ git clone https://github.com/skewer33/local_backup_utility.git
 	- paths to directories to be backed up (`SOURCE_DIR`)
 	- database containers to be backed up (`SOURCE_DB`)
 ```
-cd make_backup
+cd local_backup_utility
 nano backup.conf
 ```
 
