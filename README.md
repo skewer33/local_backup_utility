@@ -3,7 +3,7 @@ The project was implemented as part of setting up a server backup system for the
 ## Quick start
 1. Download the project
 ```bash
-git clone 
+git clone https://github.com/skewer33/local_backup_utility.git
 ```
 
 2. Configure the following in the configuration file:
